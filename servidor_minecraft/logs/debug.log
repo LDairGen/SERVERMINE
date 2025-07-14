@@ -2125,3 +2125,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jul2025 17:43:15.791] [Worker-Main-21/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
 [14Jul2025 17:43:16.119] [Worker-Main-22/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
 [14Jul2025 17:43:16.408] [Worker-Main-23/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[14Jul2025 17:44:44.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 17:44:44.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 17:48:53.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen has made the advancement [Stone Age]
+[14Jul2025 17:49:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen has made the advancement [Getting an Upgrade]
+[14Jul2025 17:49:44.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 17:49:44.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 17:52:51.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen has made the advancement [Acquire Hardware]

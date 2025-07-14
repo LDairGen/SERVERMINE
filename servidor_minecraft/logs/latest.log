@@ -75,3 +75,6 @@
 [14Jul2025 17:41:46.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LDairGen[/127.71.239.79:58231] logged in with entity id 39 at (-57.54624485985671, 157.0, 21.211193177367456)
 [14Jul2025 17:41:46.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen joined the game
 [14Jul2025 17:43:16.408] [Worker-Main-23/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[14Jul2025 17:48:53.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen has made the advancement [Stone Age]
+[14Jul2025 17:49:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen has made the advancement [Getting an Upgrade]
+[14Jul2025 17:52:51.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen has made the advancement [Acquire Hardware]
