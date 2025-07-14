@@ -2132,3 +2132,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jul2025 19:52:30.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jul2025 19:52:30.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Jul2025 19:55:56.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi was doomed to fall by Baby Spider
+[14Jul2025 19:57:13.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi fell from a high place
+[14Jul2025 19:57:30.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 19:57:30.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 19:58:46.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi has made the advancement [Suit Up]
+[14Jul2025 20:00:45.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi hit the ground too hard
+[14Jul2025 20:02:30.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 20:02:30.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
