@@ -105,3 +105,5 @@
 [14Jul2025 01:39:55.871] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 29029 ms
 [14Jul2025 01:39:55.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (35.516s)! For help, type "help"
 [14Jul2025 01:39:55.890] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[14Jul2025 01:49:40.046] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5cb8f6c1[id=<null>,name=LDairGen,properties={},legacy=false] (/127.71.239.79:43479) lost connection: Disconnected
+[14Jul2025 01:54:14.591] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1977a733[id=<null>,name=LDairGen,properties={},legacy=false] (/127.71.239.79:44491) lost connection: Disconnected
