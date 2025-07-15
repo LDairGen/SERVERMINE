@@ -36,6 +36,7 @@
       "minecraft:desert": "2025-07-14 18:33:06 +0000",
       "minecraft:warm_ocean": "2025-07-14 18:34:53 +0000",
       "minecraft:deep_dark": "2025-07-15 03:56:33 +0000",
+      "minecraft:savanna": "2025-07-15 05:13:33 +0000",
       "minecraft:plains": "2025-07-15 04:52:18 +0000"
     },
     "done": false
@@ -467,6 +468,7 @@
       "golden_apple": "2025-07-14 18:50:58 +0000",
       "rotten_flesh": "2025-07-14 18:37:18 +0000",
       "glow_berries": "2025-07-15 02:11:01 +0000",
+      "cooked_chicken": "2025-07-15 05:09:07 +0000",
       "cooked_salmon": "2025-07-15 04:52:14 +0000"
     },
     "done": false
@@ -1511,6 +1513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-15 05:09:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-15 04:58:07 +0000"
@@ -1625,6 +1633,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-15 05:14:17 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-07-15 04:58:07 +0000"
@@ -1727,6 +1741,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-15 05:18:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-15 04:58:07 +0000"
@@ -1784,6 +1804,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-15 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-15 05:09:44 +0000"
     },
     "done": true
   },
@@ -1937,6 +1963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-15 05:09:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-07-15 03:53:07 +0000"
@@ -1979,6 +2011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-15 05:09:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
       "has_item": "2025-07-15 03:53:07 +0000"
@@ -2000,6 +2038,12 @@
   "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-15 04:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-15 05:09:44 +0000"
     },
     "done": true
   },
@@ -2057,6 +2101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-15 05:09:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-07-15 03:53:52 +0000"
@@ -2072,6 +2122,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-07-15 03:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-15 05:14:17 +0000"
     },
     "done": true
   },
@@ -2111,6 +2167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-15 05:09:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-07-15 04:52:43 +0000"
@@ -2126,6 +2188,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-15 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-15 05:09:43 +0000"
     },
     "done": true
   },
@@ -2150,6 +2218,12 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-15 04:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-15 05:09:44 +0000"
     },
     "done": true
   },
@@ -2180,6 +2254,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-07-15 04:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-15 05:14:17 +0000"
     },
     "done": true
   },
