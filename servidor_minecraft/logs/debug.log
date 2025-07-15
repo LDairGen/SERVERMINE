@@ -2750,3 +2750,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Jul2025 05:23:54.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Jul2025 05:28:54.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jul2025 05:28:54.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 05:30:34.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1844, y=64, z=-54} BlockPos{x=1845, y=63, z=-54}
+[15Jul2025 05:32:53.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa has made the advancement [Book of Monsters]
+[15Jul2025 05:33:54.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 05:33:54.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 05:35:53.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hojaaaa lost connection: Disconnected
+[15Jul2025 05:35:53.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa left the game
+[15Jul2025 05:38:54.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 05:38:54.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
