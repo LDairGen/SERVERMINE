@@ -1673,9 +1673,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-15 19:09:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2025-07-15 18:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-15 19:09:04 +0000"
     },
     "done": true
   },
@@ -1691,15 +1703,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-15 19:09:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-07-15 18:43:24 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-15 19:09:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_boots": {
     "criteria": {
       "has_item": "2025-07-15 18:40:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-07-15 19:08:49 +0000"
     },
     "done": true
   },
@@ -1712,6 +1742,12 @@
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2025-07-15 18:49:32 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-07-15 18:54:43 +0000"
     },
     "done": true
   },
@@ -1745,9 +1781,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-07-15 19:09:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-07-15 19:08:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-07-15 18:43:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-15 19:08:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed": "2025-07-15 19:04:18 +0000"
     },
     "done": true
   },
