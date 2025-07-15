@@ -77,3 +77,48 @@
 [15Jul2025 17:26:04.646] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/50, l='ServerLevel[world]', x=1917.50, y=68.00, z=-187.82] died, message: 'Scribe was slain by Decaying Zombie'
 [15Jul2025 17:26:36.448] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/85, l='ServerLevel[world]', x=1914.30, y=67.00, z=-170.94] died, message: 'Villager was slain by Decaying Zombie'
 [15Jul2025 17:27:04.595] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/49, l='ServerLevel[world]', x=1919.49, y=67.00, z=-180.45] died, message: 'Mason was slain by Decaying Zombie'
+[15Jul2025 17:39:24.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pinggfi[/127.243.45.1:35079] logged in with entity id 3136 at (299.30000001192093, -3.0, -81.30000001192093)
+[15Jul2025 17:39:24.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi joined the game
+[15Jul2025 17:39:39.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> 8ff
+[15Jul2025 17:40:45.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> ven a 1911 -154
+[15Jul2025 17:40:51.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ando en la mina
+[15Jul2025 17:40:55.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> deja me cheto full
+[15Jul2025 17:40:59.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> al menos full hiero
+[15Jul2025 17:41:02.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> hierro*
+[15Jul2025 17:41:05.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> y salgo xd
+[15Jul2025 17:42:24.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pinggfi lost connection: Timed out
+[15Jul2025 17:42:24.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi left the game
+[15Jul2025 17:42:25.015] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Jul2025 17:42:28.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hojaaaa lost connection: Timed out
+[15Jul2025 17:42:28.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa left the game
+[15Jul2025 17:42:52.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hojaaaa[/127.4.194.172:57431] logged in with entity id 4276 at (1907.9938032274315, 69.0, -159.46427898582476)
+[15Jul2025 17:42:52.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa joined the game
+[15Jul2025 17:43:16.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pinggfi[/127.243.45.1:50369] logged in with entity id 4723 at (293.3391899835762, -3.0, -70.69999998807907)
+[15Jul2025 17:43:16.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi joined the game
+[15Jul2025 17:44:12.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was blown up by Death Worm
+[15Jul2025 17:44:16.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> xd
+[15Jul2025 17:44:18.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> ve esa huevada
+[15Jul2025 17:44:30.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi fell from a high place
+[15Jul2025 17:44:32.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> cff
+[15Jul2025 17:44:33.084] [Worker-Main-18/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[15Jul2025 17:44:42.106] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/5341, l='ServerLevel[world]', x=1933.36, y=62.00, z=-198.81] died, message: 'Farmer was slain by Guster'
+[15Jul2025 17:46:38.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi was slain by Nightmare Stalker
+[15Jul2025 17:49:06.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi fell from a high place
+[15Jul2025 17:49:30.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi was slain by Zombie Bruiser
+[15Jul2025 17:53:13.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa has made the advancement [The Wind Darkening]
+[15Jul2025 17:53:35.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> estoy a medio corazón loco
+[15Jul2025 17:53:41.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> ff
+[15Jul2025 17:54:57.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa has made the advancement [Would you Like to Know More?]
+[15Jul2025 17:55:03.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi has made the advancement [Cover Me with Diamonds]
+[15Jul2025 17:55:11.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> yiyi
+[15Jul2025 17:57:19.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1927, y=64, z=-139} BlockPos{x=1926, y=62, z=-139}
+[15Jul2025 17:58:55.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa has made the advancement [Eye of The Storm]
+[15Jul2025 18:02:31.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hojaaaa was kicked for floating too long!
+[15Jul2025 18:02:31.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hojaaaa lost connection: Flying is not enabled on this server
+[15Jul2025 18:02:31.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa left the game
+[15Jul2025 18:02:51.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hojaaaa[/127.4.194.172:50359] logged in with entity id 16146 at (1936.655374924781, 68.16610926093821, -181.37544587673483)
+[15Jul2025 18:02:51.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa joined the game
+[15Jul2025 18:03:43.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa fell from a high place
+[15Jul2025 18:03:45.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> xd
+[15Jul2025 18:03:46.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> xdddd
+[15Jul2025 18:04:13.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi was shot by Skeleton
