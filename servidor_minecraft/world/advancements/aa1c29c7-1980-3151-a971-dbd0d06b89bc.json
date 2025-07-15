@@ -31,6 +31,8 @@
       "minecraft:river": "2025-07-15 02:03:25 +0000",
       "minecraft:stony_shore": "2025-07-15 04:23:21 +0000",
       "minecraft:lush_caves": "2025-07-14 19:49:27 +0000",
+      "minecraft:desert": "2025-07-15 04:35:25 +0000",
+      "minecraft:warm_ocean": "2025-07-15 04:35:05 +0000",
       "minecraft:deep_dark": "2025-07-15 04:16:26 +0000"
     },
     "done": false
@@ -1209,6 +1211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-07-15 04:28:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-07-15 03:21:25 +0000"
@@ -1242,6 +1250,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-07-15 03:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-07-15 04:28:55 +0000"
     },
     "done": true
   },
