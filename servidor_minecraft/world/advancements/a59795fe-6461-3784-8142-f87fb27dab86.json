@@ -26,7 +26,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:wooded_badlands": "2025-07-14 17:56:42 +0000",
+      "minecraft:bamboo_jungle": "2025-07-15 05:28:18 +0000",
       "minecraft:badlands": "2025-07-14 18:35:09 +0000",
+      "minecraft:beach": "2025-07-15 05:20:28 +0000",
       "minecraft:sparse_jungle": "2025-07-15 04:52:49 +0000",
       "minecraft:lukewarm_ocean": "2025-07-14 18:43:21 +0000",
       "minecraft:river": "2025-07-15 04:48:43 +0000",
@@ -34,6 +36,7 @@
       "minecraft:forest": "2025-07-15 04:53:19 +0000",
       "minecraft:lush_caves": "2025-07-15 02:39:52 +0000",
       "minecraft:desert": "2025-07-14 18:33:06 +0000",
+      "minecraft:jungle": "2025-07-15 05:25:01 +0000",
       "minecraft:warm_ocean": "2025-07-14 18:34:53 +0000",
       "minecraft:deep_dark": "2025-07-15 03:56:33 +0000",
       "minecraft:savanna": "2025-07-15 05:13:33 +0000",
@@ -464,6 +467,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-15 04:56:09 +0000",
+      "cooked_beef": "2025-07-15 05:20:41 +0000",
       "bread": "2025-07-14 18:51:37 +0000",
       "golden_apple": "2025-07-14 18:50:58 +0000",
       "rotten_flesh": "2025-07-14 18:37:18 +0000",
@@ -1525,6 +1529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-15 05:28:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
       "has_item": "2025-07-15 03:53:07 +0000"
@@ -1540,6 +1550,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-15 04:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-15 05:24:07 +0000"
     },
     "done": true
   },
@@ -1624,6 +1640,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-07-15 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-15 05:24:00 +0000"
     },
     "done": true
   },
@@ -1759,6 +1781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-15 05:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2025-07-15 03:53:07 +0000"
@@ -1885,6 +1913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-15 05:23:20 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-15 04:58:07 +0000"
@@ -1972,6 +2006,12 @@
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-07-15 03:53:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-15 05:21:11 +0000"
     },
     "done": true
   },
@@ -2119,6 +2159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-15 05:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-07-15 03:54:07 +0000"
@@ -2218,6 +2264,12 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-15 04:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-15 05:23:20 +0000"
     },
     "done": true
   },

@@ -2745,3 +2745,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Jul2025 05:18:34.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa has made the advancement [Mine? Mine? Mine?]
 [15Jul2025 05:18:54.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jul2025 05:18:54.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 05:21:11.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa has made the advancement [Sea? Not a Problem]
+[15Jul2025 05:23:54.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 05:23:54.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 05:28:54.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 05:28:54.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
