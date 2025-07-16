@@ -4,5 +4,11 @@
     "name": "hojaaaa",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d35a92bc-d1ee-3f41-944a-0f06e6066350",
+    "name": "LDairGen",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

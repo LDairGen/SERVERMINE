@@ -3030,5 +3030,17 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-07-16 16:06:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-07-16 16:18:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -25,15 +25,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-07-16 16:09:09 +0000",
       "minecraft:wooded_badlands": "2025-07-14 02:01:59 +0000",
       "minecraft:badlands": "2025-07-14 17:59:36 +0000",
+      "minecraft:beach": "2025-07-16 16:15:50 +0000",
       "minecraft:sparse_jungle": "2025-07-16 15:58:12 +0000",
       "minecraft:river": "2025-07-14 17:59:21 +0000",
       "minecraft:stony_shore": "2025-07-14 17:55:57 +0000",
+      "minecraft:dripstone_caves": "2025-07-16 16:23:31 +0000",
+      "minecraft:cold_ocean": "2025-07-16 16:15:43 +0000",
       "minecraft:lush_caves": "2025-07-14 17:50:56 +0000",
       "minecraft:desert": "2025-07-14 17:55:37 +0000",
       "minecraft:jungle": "2025-07-16 16:00:09 +0000",
       "minecraft:warm_ocean": "2025-07-14 17:58:07 +0000",
+      "minecraft:deep_dark": "2025-07-16 16:21:40 +0000",
       "minecraft:plains": "2025-07-16 15:58:35 +0000"
     },
     "done": false
@@ -863,6 +868,30 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-16 15:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-16 16:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-07-16 16:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-16 16:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-07-16 16:27:42 +0000"
     },
     "done": true
   },
