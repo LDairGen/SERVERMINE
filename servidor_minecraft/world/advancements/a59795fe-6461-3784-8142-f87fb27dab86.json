@@ -39,6 +39,7 @@
       "minecraft:desert": "2025-07-14 18:33:06 +0000",
       "minecraft:jungle": "2025-07-15 05:25:01 +0000",
       "minecraft:warm_ocean": "2025-07-14 18:34:53 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-16 01:19:34 +0000",
       "minecraft:deep_dark": "2025-07-15 03:56:33 +0000",
       "minecraft:savanna": "2025-07-15 05:13:33 +0000",
       "minecraft:plains": "2025-07-15 04:52:18 +0000"
@@ -2560,6 +2561,54 @@
   "graveyard:graveyard/corruption": {
     "criteria": {
       "corruption": "2025-07-15 18:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-16 01:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-16 01:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-16 01:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-16 01:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-16 01:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-16 01:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-16 01:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-16 01:19:55 +0000"
     },
     "done": true
   },
