@@ -664,3 +664,6 @@
 [16Jul2025 17:48:11.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi was slain by Corpse Fish
 [16Jul2025 17:48:18.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pinggfi lost connection: Disconnected
 [16Jul2025 17:48:18.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi left the game
+[16Jul2025 18:19:21.876] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pinggfi[/127.243.45.1:44787] logged in with entity id 95085 at (7357.049786661115, 65.0, 3853.1332385893406)
+[16Jul2025 18:19:21.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi joined the game
+[16Jul2025 18:28:02.314] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/95184, l='ServerLevel[world]', x=7459.33, y=75.00, z=3850.16] died, message: 'Villager was incinerated by Fire Dragon'
