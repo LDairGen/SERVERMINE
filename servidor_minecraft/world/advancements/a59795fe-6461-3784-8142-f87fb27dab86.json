@@ -485,6 +485,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-14 18:57:07 +0000",
       "minecraft:spider": "2025-07-15 03:40:06 +0000",
+      "minecraft:piglin": "2025-07-16 02:56:34 +0000",
       "minecraft:zombie": "2025-07-14 18:38:32 +0000"
     },
     "done": false
@@ -2664,6 +2665,42 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-07-16 01:59:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-16 02:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-16 02:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-16 02:55:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-16 02:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-16 02:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-16 02:56:53 +0000"
     },
     "done": true
   },
