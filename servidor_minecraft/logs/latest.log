@@ -82,3 +82,8 @@
 [16Jul2025 00:11:05.129] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [16Jul2025 00:18:27.560] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pinggfi[/127.243.45.1:32995] logged in with entity id 65 at (307.43532023785707, 64.0, -126.30000001192093)
 [16Jul2025 00:18:27.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi joined the game
+[16Jul2025 00:28:29.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hojaaaa[/127.4.194.172:40821] logged in with entity id 1439 at (2100.3815041839716, -50.0, 226.52821946032591)
+[16Jul2025 00:28:29.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa joined the game
+[16Jul2025 00:28:39.919] [Worker-Main-15/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1955, y=-22, z=379}
+[16Jul2025 00:34:43.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hojaaaa lost connection: Disconnected
+[16Jul2025 00:34:43.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa left the game
