@@ -2672,3 +2672,45 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Jul2025 16:32:28.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> para iniciar todos
 [16Jul2025 16:32:31.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> si o q
 [16Jul2025 16:32:34.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> andate a la verga
+[16Jul2025 16:32:39.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> o yaya
+[16Jul2025 16:32:41.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> smn
+[16Jul2025 16:32:42.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> pero sin mods xd
+[16Jul2025 16:32:43.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> crea crea mija
+[16Jul2025 16:32:45.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> no chch
+[16Jul2025 16:32:47.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> con kmods
+[16Jul2025 16:32:49.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> pa que se una la demas pipol
+[16Jul2025 16:32:57.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> ya la damaris y la bri se unieron ayer xd
+[16Jul2025 16:33:02.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> esos manes valen vrg
+[16Jul2025 16:33:07.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> esas*
+[16Jul2025 16:33:12.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ya pues
+[16Jul2025 16:33:15.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> valen vrg
+[16Jul2025 16:33:29.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> no les iras a demostrar rus habilidades mi so
+[16Jul2025 16:33:40.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi was shot by Skeleton
+[16Jul2025 16:33:47.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> dejemos nomás así pes
+[16Jul2025 16:35:30.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LDairGen: Set own game mode to Creative Mode]
+[16Jul2025 16:36:47.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 16:36:47.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 16:37:57.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LDairGen: Set own game mode to Survival Mode]
+[16Jul2025 16:38:51.636] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/30610, l='ServerLevel[world]', x=8463.70, y=64.00, z=4160.70] died, message: 'Villager suffocated in a wall'
+[16Jul2025 16:40:24.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> xaero-waypoint:dragones:D:1493:70:563:5:false:0:Internal-overworld-waypoints
+[16Jul2025 16:40:46.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> tres dragones webob xddd
+[16Jul2025 16:40:51.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> xd
+[16Jul2025 16:41:35.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi was frozen by Ice Dragon
+[16Jul2025 16:41:41.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> ca
+[16Jul2025 16:41:42.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> xd
+[16Jul2025 16:41:43.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen was energized by Lightning Dragon
+[16Jul2025 16:41:47.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 16:41:47.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 16:41:52.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LDairGen: Teleported LDairGen to 1546.500000, 60.500000, 615.500000]
+[16Jul2025 16:42:59.867] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/35401, l='ServerLevel[world]', x=7423.22, y=66.76, z=3867.20] died, message: 'Nitwit was slain by Fire Dragon'
+[16Jul2025 16:44:49.979] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/35400, l='ServerLevel[world]', x=7416.23, y=63.16, z=3839.69] died, message: 'Leatherworker was slain by Fire Dragon'
+[16Jul2025 16:44:58.755] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/35386, l='ServerLevel[world]', x=7398.81, y=63.00, z=3868.10] died, message: 'Nitwit was incinerated by Fire Dragon'
+[16Jul2025 16:46:47.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 16:46:47.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 16:48:24.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LDairGen: Set own game mode to Creative Mode]
+[16Jul2025 16:48:37.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> on tas
+[16Jul2025 16:48:54.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> xaero-waypoint:x:X:7380:20:3837:10:false:0:Internal-overworld-waypoints
+[16Jul2025 16:51:31.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LDairGen: Set own game mode to Survival Mode]
+[16Jul2025 16:51:47.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 16:51:47.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 16:52:39.118] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/35397, l='ServerLevel[world]', x=7441.85, y=72.28, z=3848.30] died, message: 'Librarian was slain by Zombie'

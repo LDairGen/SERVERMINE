@@ -47,6 +47,7 @@
       "minecraft:forest": "2025-07-16 01:30:14 +0000",
       "minecraft:lush_caves": "2025-07-14 19:49:27 +0000",
       "minecraft:deep_cold_ocean": "2025-07-16 02:35:41 +0000",
+      "minecraft:ice_spikes": "2025-07-16 16:37:44 +0000",
       "minecraft:frozen_ocean": "2025-07-16 06:23:04 +0000",
       "minecraft:desert": "2025-07-15 04:35:25 +0000",
       "minecraft:deep_frozen_ocean": "2025-07-16 02:36:41 +0000",
@@ -3039,6 +3040,36 @@
   "iceandfire:recipes/combat/iron_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-07-16 16:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-16 16:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-16 16:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-16 16:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-16 16:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-16 16:34:21 +0000"
     },
     "done": true
   },
