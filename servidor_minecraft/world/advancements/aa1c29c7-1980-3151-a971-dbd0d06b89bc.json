@@ -546,10 +546,12 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-14 19:49:56 +0000",
       "minecraft:spider": "2025-07-15 02:12:32 +0000",
+      "minecraft:creeper": "2025-07-16 17:19:37 +0000",
       "minecraft:husk": "2025-07-16 01:57:25 +0000",
       "minecraft:cave_spider": "2025-07-15 02:50:35 +0000",
       "minecraft:piglin": "2025-07-16 02:15:45 +0000",
-      "minecraft:zombie": "2025-07-15 02:09:49 +0000"
+      "minecraft:zombie": "2025-07-15 02:09:49 +0000",
+      "minecraft:zombie_villager": "2025-07-16 17:12:52 +0000"
     },
     "done": false
   },
@@ -3055,9 +3057,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-07-16 17:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-16 17:05:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-07-16 16:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-07-16 17:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-07-16 17:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-16 17:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-16 17:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-16 17:05:34 +0000"
     },
     "done": true
   },
@@ -3067,9 +3111,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-16 17:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-07-16 17:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-16 17:05:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-07-16 16:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-16 17:05:34 +0000"
     },
     "done": true
   },

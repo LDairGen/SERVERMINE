@@ -2714,3 +2714,303 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Jul2025 16:51:47.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jul2025 16:51:47.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Jul2025 16:52:39.118] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/35397, l='ServerLevel[world]', x=7441.85, y=72.28, z=3848.30] died, message: 'Librarian was slain by Zombie'
+[16Jul2025 16:54:07.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> on tas
+[16Jul2025 16:54:12.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> en la misma
+[16Jul2025 16:54:14.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ubi
+[16Jul2025 16:54:15.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> xd
+[16Jul2025 16:54:19.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> estoy haciendo un heli
+[16Jul2025 16:54:24.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> para ver si salgo a donde morí
+[16Jul2025 16:56:25.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> estoy a 20000
+[16Jul2025 16:56:28.875] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/35387, l='ServerLevel[world]', x=7320.74, y=70.00, z=3868.62] died, message: 'Cartographer was slain by Fallen Chaos Knight'
+[16Jul2025 16:56:35.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> 2124*
+[16Jul2025 16:56:47.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 16:56:47.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 16:57:00.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> ajksajska loco
+[16Jul2025 16:57:04.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> q
+[16Jul2025 16:57:04.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> encontre botas de oro
+[16Jul2025 16:57:06.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> en un portal
+[16Jul2025 16:57:14.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> y an tenido pa caminar en el agua
+[16Jul2025 16:57:18.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> xddd?
+[16Jul2025 16:57:20.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ish
+[16Jul2025 16:59:37.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen has made the advancement [Tie me to the Mast]
+[16Jul2025 17:00:30.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/35372, l='ServerLevel[world]', x=7398.67, y=64.00, z=3828.96] died, message: 'Cartographer was turned into KFC by Fire Dragon'
+[16Jul2025 17:00:36.364] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/35395, l='ServerLevel[world]', x=7393.67, y=67.00, z=3811.40] died, message: 'Leatherworker was slain by Fire Dragon'
+[16Jul2025 17:01:05.065] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/35370, l='ServerLevel[world]', x=7348.28, y=65.76, z=3870.80] died, message: 'Librarian was slain by Fire Dragon'
+[16Jul2025 17:01:47.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 17:01:47.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 17:02:43.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> xaero-waypoint:mushrom:M:6289:62:3332:2:false:0:Internal-overworld-waypoints
+[16Jul2025 17:03:14.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen has made the advancement [Sunken in the Sea]
+[16Jul2025 17:03:26.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> esa es la q enconmtré yo xd
+[16Jul2025 17:03:33.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ya llegaste a esa ciudad?
+[16Jul2025 17:03:41.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ya estás cerca ff
+[16Jul2025 17:03:56.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> si
+[16Jul2025 17:04:06.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7402, y=66, z=3795} BlockPos{x=7399, y=65, z=3794}
+[16Jul2025 17:04:06.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7402, y=66, z=3795} BlockPos{x=7399, y=65, z=3794}
+[16Jul2025 17:05:08.867] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:08.969] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:09.069] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:09.167] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:09.268] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:09.370] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:09.472] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:09.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:09.670] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:09.768] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:09.922] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:09.979] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:10.076] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:10.173] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:10.272] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:10.370] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:10.471] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:10.570] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:10.670] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:10.769] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:10.875] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:10.971] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:11.071] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:11.172] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:11.269] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:11.369] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:11.471] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:11.576] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:11.671] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:11.771] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:11.873] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:11.972] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:12.073] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:12.168] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:12.277] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:12.371] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:12.470] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:12.587] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:12.673] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:12.768] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:12.872] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:12.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:13.075] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:13.169] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:13.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:13.382] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:13.470] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:13.575] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:13.672] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:13.768] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:13.869] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:13.969] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:14.070] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:14.168] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:14.268] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:14.368] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:14.470] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:14.570] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:14.669] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:14.772] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:14.870] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:14.970] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:15.069] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:15.169] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:15.269] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:15.369] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:15.474] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:15.568] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:15.668] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:15.768] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:15.869] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:15.969] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:16.074] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:16.170] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:16.268] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:16.372] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:16.469] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:16.572] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:16.682] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:16.768] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:16.888] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:16.990] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:17.094] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:17.177] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:17.270] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:17.372] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:17.468] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:17.569] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:05:17.668] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:06:02.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ya salí
+[16Jul2025 17:06:02.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LDairGen) moved wrongly! 0.3983646311426128
+[16Jul2025 17:06:02.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LDairGen) moved wrongly! 0.3467290704666084
+[16Jul2025 17:06:04.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> vrg man
+[16Jul2025 17:06:09.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> me olvidé de redstone
+[16Jul2025 17:06:11.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> en la mina
+[16Jul2025 17:06:12.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen was slain by Sea Serpent
+[16Jul2025 17:06:14.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> tienes redstone
+[16Jul2025 17:06:16.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> x
+[16Jul2025 17:06:17.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> D
+[16Jul2025 17:06:17.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> xd
+[16Jul2025 17:06:25.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> suerte que me dormi pes
+[16Jul2025 17:06:29.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ah ya pes
+[16Jul2025 17:06:47.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 17:06:47.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 17:06:48.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LDairGen: Set own game mode to Creative Mode]
+[16Jul2025 17:06:52.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LDairGen: Teleported LDairGen to 7185.500000, 61.500000, 3686.500000]
+[16Jul2025 17:08:53.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LDairGen: Set own game mode to Survival Mode]
+[16Jul2025 17:08:55.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> ayudame xd
+[16Jul2025 17:09:04.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> pon coords
+[16Jul2025 17:09:19.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> xaero-waypoint:a:A:7210:63:3744:7:false:0:Internal-overworld-waypoints
+[16Jul2025 17:09:38.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ya voy ff
+[16Jul2025 17:10:38.467] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/35396, l='ServerLevel[world]', x=7421.67, y=64.00, z=3862.63] died, message: 'Cleric was slain by Zombie'
+[16Jul2025 17:10:47.420] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/35371, l='ServerLevel[world]', x=7340.37, y=63.00, z=3873.63] died, message: 'Librarian was slain by Zombie Bruiser'
+[16Jul2025 17:11:47.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 17:11:47.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 17:11:56.968] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/35369, l='ServerLevel[world]', x=7345.17, y=71.00, z=3821.20] died, message: 'Cleric was slain by Zombie Villager'
+[16Jul2025 17:12:58.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi withered away whilst fighting Nightmare Stalker
+[16Jul2025 17:13:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi was slain by Dread Hound
+[16Jul2025 17:13:50.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi was shot by Skeleton
+[16Jul2025 17:14:43.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> q malo
+[16Jul2025 17:14:48.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> aldea
+[16Jul2025 17:14:56.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> dragon xd
+[16Jul2025 17:15:25.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> t veo en el mapa
+[16Jul2025 17:15:26.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> rodealo
+[16Jul2025 17:16:32.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> papá ff
+[16Jul2025 17:16:39.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> alto
+[16Jul2025 17:16:47.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 17:16:47.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 17:16:49.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> yo ya estuve en estos cerros
+[16Jul2025 17:16:56.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ven
+[16Jul2025 17:17:05.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> toma
+[16Jul2025 17:17:07.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> q
+[16Jul2025 17:17:31.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> oma
+[16Jul2025 17:17:51.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen was burnt to a crisp whilst fighting Fire Dragon
+[16Jul2025 17:17:54.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> xd
+[16Jul2025 17:17:58.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> hijueputa
+[16Jul2025 17:18:06.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> guardaste sapwn?
+[16Jul2025 17:18:11.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> si
+[16Jul2025 17:18:16.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> no me demoro xdd
+[16Jul2025 17:18:21.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> lit esta cerca
+[16Jul2025 17:18:39.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LDairGen: Teleported LDairGen to 6734.500000, 63.500000, 3391.500000]
+[16Jul2025 17:18:56.863] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/67942, l='ServerLevel[world]', x=6807.50, y=43.00, z=3357.50]
+[16Jul2025 17:19:05.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> el srv se va apagar
+[16Jul2025 17:19:06.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> xd
+[16Jul2025 17:19:12.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> como sabes xd
+[16Jul2025 17:19:19.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> las criaturas están inmóbiles
+[16Jul2025 17:19:34.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LDairGen: Teleported LDairGen to 7377.500000, 63.500000, 3864.500000]
+[16Jul2025 17:19:52.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen was turned into KFC by Fire Dragon
+[16Jul2025 17:20:03.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> ami si me atacan xd
+[16Jul2025 17:20:08.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LDairGen: Teleported LDairGen to 7385.500000, 62.500000, 3864.500000]
+[16Jul2025 17:20:14.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> me sigue
+[16Jul2025 17:20:15.724] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:15.825] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:15.927] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:16.063] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:16.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:16.242] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:16.359] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:16.427] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:16.535] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:16.629] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:16.723] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:16.855] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:16.922] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:17.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:17.151] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:17.238] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:17.338] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:17.426] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:17.527] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:17.630] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:17.729] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:17.820] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:17.922] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:18.024] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:18.126] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:18.248] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:18.328] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:18.443] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:18.531] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:18.631] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:18.752] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:18.838] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:18.920] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:19.035] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:19.171] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:19.232] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:19.326] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:19.441] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:19.520] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:19.623] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:19.731] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:19.841] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:19.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> agarra
+[16Jul2025 17:20:19.929] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:20.027] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:20.127] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:21.449] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:21.519] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:21.640] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:21.732] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:21.828] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:21.943] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:22.037] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:22.155] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:22.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> tus cosas
+[16Jul2025 17:20:22.239] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:22.338] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:22.438] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:22.578] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:22.624] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:22.757] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:22.830] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:22.950] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:23.039] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:23.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:23.234] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:23.337] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:23.432] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:23.533] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:23.642] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:23.736] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:23.843] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:23.948] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:24.027] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:24.675] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:24.782] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:24.883] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:24.979] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:25.070] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:25.172] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:25.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:25.369] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:25.480] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:25.572] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:25.700] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:25.781] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:25.876] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:25.979] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:26.080] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:26.180] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:26.272] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 17:20:29.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of pinggfi) moved too quickly! -5.600102294422868,-2.177032557055668,-8.807782048016634
+[16Jul2025 17:20:29.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of pinggfi) moved too quickly! -6.288965812067545,-2.4776678222358726,-9.933603157594007
+[16Jul2025 17:20:29.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of pinggfi) moved too quickly! -6.975174567780414,-2.7847868317131486,-11.065077300889243
+[16Jul2025 17:20:29.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of pinggfi) moved too quickly! -7.658745737349818,-3.098257716396205,-12.202089611844713
+[16Jul2025 17:20:29.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of pinggfi) moved too quickly! -8.339696943550734,-3.4179502598820193,-13.34452723418417
+[16Jul2025 17:20:29.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of pinggfi) moved too quickly! -9.018046235665679,-3.7437359550144436,-14.492279278551905
+[16Jul2025 17:20:29.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of pinggfi) moved too quickly! -9.693812054418231,-4.075488017207817,-15.64523681355331
+[16Jul2025 17:20:29.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of pinggfi) moved too quickly! -10.367013228992619,-4.413081388424956,-16.803292839421374
+[16Jul2025 17:20:29.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of pinggfi) moved too quickly! -11.037668945687983,-4.756392788877832,-17.966342249884292
+[16Jul2025 17:20:29.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of pinggfi) moved too quickly! -11.705798731595678,-5.105300710485807,-19.134281824828577
+[16Jul2025 17:20:29.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of pinggfi) moved too quickly! -12.371422434404849,-5.45968544831419,-20.3070101951198
+[16Jul2025 17:20:29.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of pinggfi) moved too quickly! -13.034560201037493,-5.819429113273372,-21.484427815357776
+[16Jul2025 17:20:29.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of pinggfi) moved too quickly! -7.390094458868589,-3.7476563739240305,-12.768346318499425
+[16Jul2025 17:20:29.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of pinggfi) moved too quickly! -5.287517519723224,-2.9286504729066962,-9.463029153132993
+[16Jul2025 17:21:09.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi was turned into KFC by Fire Dragon
+[16Jul2025 17:21:19.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> xd
+[16Jul2025 17:21:38.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi was incinerated by Fire Dragon
+[16Jul2025 17:21:47.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 17:21:47.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 17:21:50.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen was incinerated by Fire Dragon
+[16Jul2025 17:21:55.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> este hjueputa
+[16Jul2025 17:22:12.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi was incinerated by Fire Dragon
+[16Jul2025 17:22:31.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> vamonos
+[16Jul2025 17:22:33.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> has un bote
+[16Jul2025 17:23:06.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> ven
+[16Jul2025 17:23:24.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> aguanta
