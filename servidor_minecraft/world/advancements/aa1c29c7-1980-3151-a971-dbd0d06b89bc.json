@@ -28,6 +28,7 @@
       "minecraft:taiga": "2025-07-16 02:34:16 +0000",
       "minecraft:deep_ocean": "2025-07-16 04:19:57 +0000",
       "minecraft:eroded_badlands": "2025-07-15 04:24:01 +0000",
+      "minecraft:frozen_river": "2025-07-16 06:24:48 +0000",
       "minecraft:birch_forest": "2025-07-16 02:33:40 +0000",
       "minecraft:wooded_badlands": "2025-07-14 02:31:41 +0000",
       "minecraft:bamboo_jungle": "2025-07-16 01:31:41 +0000",
@@ -38,19 +39,27 @@
       "minecraft:river": "2025-07-15 02:03:25 +0000",
       "minecraft:lukewarm_ocean": "2025-07-16 01:35:55 +0000",
       "minecraft:stony_shore": "2025-07-15 04:23:21 +0000",
+      "minecraft:snowy_plains": "2025-07-16 06:22:03 +0000",
+      "minecraft:snowy_taiga": "2025-07-16 06:24:36 +0000",
+      "minecraft:grove": "2025-07-16 06:24:32 +0000",
+      "minecraft:swamp": "2025-07-16 06:21:32 +0000",
       "minecraft:cold_ocean": "2025-07-16 02:34:15 +0000",
       "minecraft:forest": "2025-07-16 01:30:14 +0000",
       "minecraft:lush_caves": "2025-07-14 19:49:27 +0000",
       "minecraft:deep_cold_ocean": "2025-07-16 02:35:41 +0000",
+      "minecraft:frozen_ocean": "2025-07-16 06:23:04 +0000",
       "minecraft:desert": "2025-07-15 04:35:25 +0000",
       "minecraft:deep_frozen_ocean": "2025-07-16 02:36:41 +0000",
       "minecraft:jungle": "2025-07-16 01:36:04 +0000",
       "minecraft:ocean": "2025-07-16 02:34:06 +0000",
+      "minecraft:snowy_beach": "2025-07-16 06:22:04 +0000",
       "minecraft:warm_ocean": "2025-07-15 04:35:05 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-16 02:30:46 +0000",
       "minecraft:flower_forest": "2025-07-16 05:41:23 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-16 02:33:57 +0000",
       "minecraft:deep_dark": "2025-07-15 04:16:26 +0000",
+      "minecraft:meadow": "2025-07-16 05:52:31 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-07-16 06:18:57 +0000",
       "minecraft:savanna": "2025-07-16 01:28:56 +0000",
       "minecraft:plains": "2025-07-16 01:28:53 +0000"
     },
@@ -341,6 +350,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-16 04:17:21 +0000",
+      "cooked_mutton": "2025-07-16 06:18:28 +0000",
       "cooked_beef": "2025-07-16 01:57:00 +0000",
       "tropical_fish": "2025-07-15 23:41:09 +0000",
       "apple": "2025-07-16 05:10:38 +0000",
@@ -2881,19 +2891,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2025-07-16 05:15:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-07-16 05:15:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-16 05:05:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-07-16 05:05:12 +0000"
     },
@@ -2905,9 +2909,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:dismantledto_bones": {
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
-      "dismantledto_bones_0": "2025-07-16 05:18:20 +0000"
+      "has_copper_backpack": "2025-07-16 05:09:24 +0000"
     },
     "done": true
   },
@@ -2917,21 +2921,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-16 05:15:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-07-16 05:12:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_kelp": "2025-07-16 05:05:12 +0000"
+      "has_bow": "2025-07-16 05:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-16 05:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-16 05:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-07-16 05:15:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-07-16 05:15:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-07-16 05:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-16 05:15:53 +0000"
     },
     "done": true
   },
@@ -2947,39 +2981,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-07-16 05:14:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-07-16 05:14:38 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2025-07-16 05:15:53 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+  "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
-      "has_item": "2025-07-16 05:15:25 +0000"
+      "dismantledto_bones_0": "2025-07-16 05:18:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "has_iron_block": "2025-07-16 05:14:48 +0000"
+      "has_chicken": "2025-07-16 06:19:45 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+  "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
-      "has_copper_backpack": "2025-07-16 05:09:24 +0000"
+      "has_chicken": "2025-07-16 06:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-16 06:19:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-07-16 06:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-16 06:19:45 +0000"
     },
     "done": true
   },

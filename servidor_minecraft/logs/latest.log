@@ -1,233 +1,77 @@
-[16Jul2025 05:01:54.724] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[16Jul2025 05:01:54.727] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[16Jul2025 05:01:55.519] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[16Jul2025 05:01:55.540] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[16Jul2025 05:01:55.542] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/SERVERMINE/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23119!/
-[16Jul2025 05:01:55.549] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/SERVERMINE/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
-[16Jul2025 05:01:55.551] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[16Jul2025 05:01:55.613] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVERMINE/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[16Jul2025 05:01:55.622] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[16Jul2025 05:01:56.008] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVERMINE/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[16Jul2025 05:01:56.009] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVERMINE/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Jul2025 05:01:56.011] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVERMINE/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Jul2025 05:01:56.012] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVERMINE/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Jul2025 05:01:56.130] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
-[16Jul2025 05:01:56.628] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[16Jul2025 05:01:56.638] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[16Jul2025 05:01:57.209] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[16Jul2025 05:01:57.837] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[16Jul2025 05:01:57.854] [main/ERROR] [mixin/]: Mixin config arclight.mixins.json does not specify "minVersion" property
-[16Jul2025 05:01:57.866] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[16Jul2025 05:01:57.903] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Jul2025 05:01:57.908] [main/WARN] [mixin/]: Reference map 'arclight.mixins.refmap.json' for arclight.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Jul2025 05:02:05.420] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[16Jul2025 05:02:05.420] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[16Jul2025 05:02:05.646] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[16Jul2025 05:02:07.962] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[16Jul2025 05:02:08.420] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[16Jul2025 05:02:08.599] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[16Jul2025 05:02:08.604] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[16Jul2025 05:02:08.686] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[16Jul2025 05:02:10.541] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16Jul2025 05:02:11.796] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVERMINE/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23139!/assets/.mcassetsroot' uses unexpected schema
-[16Jul2025 05:02:11.796] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVERMINE/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23139!/data/.mcassetsroot' uses unexpected schema
-[16Jul2025 05:02:14.189] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[16Jul2025 05:02:14.339] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag simpleplanes:fireproof_materials as it is missing following references: #minecraft:non_flammable_wood (from simpleplanes-1.20.1-5.3.3.jar)
-[16Jul2025 05:02:14.989] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[16Jul2025 05:02:14.989] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[16Jul2025 05:02:14.989] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[16Jul2025 05:02:15.023] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe simpleplanes:plane_book as it's serializer returned null
-[16Jul2025 05:02:15.055] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
-[16Jul2025 05:02:15.167] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1924 advancements
-[16Jul2025 05:02:15.188] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[16Jul2025 05:02:15.192] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[16Jul2025 05:02:15.219] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[16Jul2025 05:02:16.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[16Jul2025 05:02:16.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[16Jul2025 05:02:16.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[16Jul2025 05:02:16.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[16Jul2025 05:02:16.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[16Jul2025 05:02:16.456] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[16Jul2025 05:02:16.533] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16Jul2025 05:02:16.534] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[16Jul2025 05:02:16.534] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16Jul2025 05:02:16.534] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[16Jul2025 05:02:16.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[16Jul2025 05:02:19.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[16Jul2025 05:02:21.304] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[16Jul2025 05:02:23.553] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[16Jul2025 05:02:27.376] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 05:02:27.377] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 05:02:27.378] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 05:02:27.378] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 05:02:27.378] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 05:02:27.379] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 05:02:27.379] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 05:02:27.380] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 05:02:27.381] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 05:02:27.382] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 05:02:27.383] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 05:02:27.383] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 05:02:27.384] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 05:02:27.385] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 05:02:27.386] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 05:02:27.386] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 05:02:27.789] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[16Jul2025 05:02:28.290] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 91%
-[16Jul2025 05:02:28.345] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8557 ms
-[16Jul2025 05:02:28.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.800s)! For help, type "help"
-[16Jul2025 05:02:28.379] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[16Jul2025 05:02:28.382] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[16Jul2025 05:02:28.383] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[16Jul2025 05:02:39.339] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hojaaaa[/127.4.194.172:42795] logged in with entity id 84 at (4151.314992913233, 65.0, 1011.4797634057866)
-[16Jul2025 05:02:39.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa joined the game
-[16Jul2025 05:02:41.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2519ms or 50 ticks behind
-[16Jul2025 05:02:59.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa suffocated in a wall
-[16Jul2025 05:03:02.609] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pinggfi[/127.243.45.1:59509] logged in with entity id 404 at (2915.392212350554, 62.073264324665075, 511.643939344232)
-[16Jul2025 05:03:02.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi joined the game
-[16Jul2025 05:03:11.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> q
-[16Jul2025 05:03:25.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> xaero-waypoint:gui.xaero-deathpoint:D:4151:65:1011:0:false:0:Internal-overworld-waypoints
-[16Jul2025 05:03:35.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> ahi pon en add
-[16Jul2025 05:03:38.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> estás vivo?
-[16Jul2025 05:03:39.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> y te sale donde mori
-[16Jul2025 05:03:41.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> no
-[16Jul2025 05:03:44.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> me mato
-[16Jul2025 05:03:55.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> mh
-[16Jul2025 05:03:58.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pinggfi) moved wrongly! 0.38918248277377643
-[16Jul2025 05:04:04.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pinggfi) moved wrongly! 0.48123675170154456
-[16Jul2025 05:04:04.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pinggfi) moved wrongly! 0.6124279093796758
-[16Jul2025 05:04:04.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pinggfi) moved wrongly! 0.9962532651716174
-[16Jul2025 05:04:25.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made hojaaaa a server operator
-[16Jul2025 05:04:36.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hojaaaa: Set own game mode to Creative Mode]
-[16Jul2025 05:04:42.666] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/2511, l='ServerLevel[world]', x=3718.69, y=68.00, z=825.57]
-[16Jul2025 05:04:48.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hojaaaa: Teleported hojaaaa to 4151.500000, 65.500000, 1011.500000]
-[16Jul2025 05:04:54.886] [Worker-Main-3/INFO] [citadel/]: vanilla surface rule behavior unchanged
-[16Jul2025 05:05:07.164] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Boat['Boat'/3168, l='ServerLevel[world]', x=3690.31, y=62.52, z=968.57]
-[16Jul2025 05:05:07.686] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/3178, l='ServerLevel[world]', x=3540.50, y=58.00, z=780.50]
-[16Jul2025 05:05:13.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hojaaaa: Set own game mode to Survival Mode]
-[16Jul2025 05:06:30.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hojaaaa: Made hojaaaa no longer a server operator]
-[16Jul2025 05:09:14.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> estoy a medio corazón
-[16Jul2025 05:09:56.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> COGI EL LOOT
-[16Jul2025 05:11:36.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> YA VIENES?
-[16Jul2025 05:11:45.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> ya llego
-[16Jul2025 05:13:06.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> solo encontré tu casco man
-[16Jul2025 05:13:17.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> y 2 mochilas
-[16Jul2025 05:13:20.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> osea
-[16Jul2025 05:13:24.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> de armadura solo un casco
-[16Jul2025 05:13:38.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> estoy en la torre
-[16Jul2025 05:13:53.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> como llegaste tan rápido
-[16Jul2025 05:14:04.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> en helicoptero xd
-[16Jul2025 05:14:09.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> lo encontraste?
-[16Jul2025 05:14:18.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> o q
-[16Jul2025 05:14:19.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> lo hice en la base
-[16Jul2025 05:14:25.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ahh
-[16Jul2025 05:14:26.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made hojaaaa a server operator
-[16Jul2025 05:14:31.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> se t duplicaron mats?
-[16Jul2025 05:14:49.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> aa
-[16Jul2025 05:14:53.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> o q
-[16Jul2025 05:14:54.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> si ps
-[16Jul2025 05:15:00.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> el propio pes
-[16Jul2025 05:15:01.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> osea
-[16Jul2025 05:15:06.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ya tengo 2 veces mi armadura
-[16Jul2025 05:15:20.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi has made the advancement [Local Brewery]
-[16Jul2025 05:15:32.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Bone Imp
-[16Jul2025 05:15:36.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> nmms
-[16Jul2025 05:15:50.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2611ms or 52 ticks behind
-[16Jul2025 05:15:59.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ya te vot a ver en heli mejor
-[16Jul2025 05:16:55.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> Aguanta q casi muero
-[16Jul2025 05:16:56.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hojaaaa: Gave 1 [Helicopter] to pinggfi]
-[16Jul2025 05:17:51.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> tengo un heli xd
-[16Jul2025 05:17:59.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> creo q es el tuyo
-[16Jul2025 05:18:04.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> supongo
-[16Jul2025 05:18:20.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pinggfi has reached the goal [Senior Summoner]
-[16Jul2025 05:18:44.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ya encontré tus cosas
-[16Jul2025 05:18:45.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> hay tantas
-[16Jul2025 05:19:02.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> guarda en una mochila
-[16Jul2025 05:19:07.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> en una tengo tus cosas
-[16Jul2025 05:19:13.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> y en otra las mias
-[16Jul2025 05:19:16.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> y una esta vacia
-[16Jul2025 05:21:03.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> no hay mi mochila duplicada
-[16Jul2025 05:21:04.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> xd
-[16Jul2025 05:21:08.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> hay 2 vacias
-[16Jul2025 05:21:15.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ff
-[16Jul2025 05:21:17.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ya nada
-[16Jul2025 05:21:28.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> como que 2 vacias
-[16Jul2025 05:21:38.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> smn
-[16Jul2025 05:21:40.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> hay 2 vacias
-[16Jul2025 05:21:44.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> una de tus cosas
-[16Jul2025 05:21:47.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> y otra media llena
-[16Jul2025 05:21:53.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> no se duplicó todo creo
-[16Jul2025 05:21:55.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> o no sé
-[16Jul2025 05:21:56.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> debe haber una de oro casi llena
-[16Jul2025 05:22:07.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> coge todo y ven a la base
-[16Jul2025 05:22:17.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> la de oro
-[16Jul2025 05:22:20.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> está vacía
-[16Jul2025 05:22:21.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> xd
-[16Jul2025 05:22:40.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> como que vacia
-[16Jul2025 05:22:43.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> smn
-[16Jul2025 05:22:48.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> si quieres te mando cap
-[16Jul2025 05:22:51.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> no me he cogido nada
-[16Jul2025 05:22:52.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> si tenia un monton de cosas
-[16Jul2025 05:23:02.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> la duplicada no hay nada
-[16Jul2025 05:23:07.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> en la que encontré yo
-[16Jul2025 05:23:10.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> si está llena
-[16Jul2025 05:23:15.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> en la que moriste tú
-[16Jul2025 05:23:19.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> esa está vacía
-[16Jul2025 05:23:20.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> xd
-[16Jul2025 05:23:33.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> bueno trae todo lo mio xd
-[16Jul2025 05:23:38.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ya voy
-[16Jul2025 05:24:31.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> aguanta
-[16Jul2025 05:24:35.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> no puedo salir
-[16Jul2025 05:24:39.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> tengo lentitud de minero
-[16Jul2025 05:26:57.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:27:01.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> q
-[16Jul2025 05:27:02.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> el helicoptero donder lo dejaste?
-[16Jul2025 05:27:05.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> en el techo?
-[16Jul2025 05:27:07.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:27:14.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:27:21.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:27:29.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> tu no lo tenias?
-[16Jul2025 05:27:33.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:27:39.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:27:41.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> sí+
-[16Jul2025 05:27:46.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> pñero el que agarré yo
-[16Jul2025 05:27:46.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:27:49.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> no tiene motor
-[16Jul2025 05:27:54.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:28:01.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:28:01.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> pos no se
-[16Jul2025 05:28:04.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> por eso t digo
-[16Jul2025 05:28:09.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:28:10.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> no lo dejaste en el techo?
-[16Jul2025 05:28:17.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> segun yo lo agarre
-[16Jul2025 05:28:20.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:28:28.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:28:43.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> le falta el motor
-[16Jul2025 05:29:31.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:29:43.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:30:06.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> hazle entonces
-[16Jul2025 05:30:11.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> lo puedo fabricar con tus mats?
-[16Jul2025 05:30:12.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> en la mochila tengo cosas xd
-[16Jul2025 05:30:15.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:30:15.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> es q no tengo yo
-[16Jul2025 05:30:17.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ah yaya
-[16Jul2025 05:30:40.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:30:49.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:31:34.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:31:41.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:32:13.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:32:28.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:33:53.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa was slain by Nightmare Stalker
-[16Jul2025 05:34:07.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> ya vienes?
-[16Jul2025 05:34:15.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> nop
-[16Jul2025 05:34:32.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> y por que no vienes
-[16Jul2025 05:34:37.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> me falta piedra
-[16Jul2025 05:37:37.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> y ahora la lava?
-[16Jul2025 05:37:46.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> liquida harias
-[16Jul2025 05:37:51.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> smn
-[16Jul2025 05:37:56.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> no había mucha madera
-[16Jul2025 05:38:07.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hojaaaa> eras de hacer de furnance xd
-[16Jul2025 05:38:23.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ese es con madera
-[16Jul2025 05:38:28.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> apenas hay un stack
-[16Jul2025 05:38:30.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ese consume full
-[16Jul2025 05:41:12.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ya encont´re lava
+[16Jul2025 06:32:15.924] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[16Jul2025 06:32:15.928] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[16Jul2025 06:32:16.848] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[16Jul2025 06:32:16.859] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[16Jul2025 06:32:16.860] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/SERVERMINE/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23119!/
+[16Jul2025 06:32:16.869] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/SERVERMINE/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[16Jul2025 06:32:16.871] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[16Jul2025 06:32:16.930] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVERMINE/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[16Jul2025 06:32:16.940] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[16Jul2025 06:32:17.395] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVERMINE/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[16Jul2025 06:32:17.397] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVERMINE/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Jul2025 06:32:17.398] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVERMINE/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Jul2025 06:32:17.399] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVERMINE/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Jul2025 06:32:17.522] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[16Jul2025 06:32:17.990] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[16Jul2025 06:32:18.004] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[16Jul2025 06:32:18.568] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[16Jul2025 06:32:19.485] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[16Jul2025 06:32:19.508] [main/ERROR] [mixin/]: Mixin config arclight.mixins.json does not specify "minVersion" property
+[16Jul2025 06:32:19.522] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[16Jul2025 06:32:19.562] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Jul2025 06:32:19.568] [main/WARN] [mixin/]: Reference map 'arclight.mixins.refmap.json' for arclight.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Jul2025 06:32:27.539] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[16Jul2025 06:32:27.539] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[16Jul2025 06:32:27.764] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[16Jul2025 06:32:29.811] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[16Jul2025 06:32:30.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16Jul2025 06:32:30.605] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[16Jul2025 06:32:30.607] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[16Jul2025 06:32:30.748] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[16Jul2025 06:32:32.905] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16Jul2025 06:32:33.979] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVERMINE/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23139!/assets/.mcassetsroot' uses unexpected schema
+[16Jul2025 06:32:33.980] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVERMINE/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23139!/data/.mcassetsroot' uses unexpected schema
+[16Jul2025 06:32:36.106] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[16Jul2025 06:32:36.222] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag simpleplanes:fireproof_materials as it is missing following references: #minecraft:non_flammable_wood (from simpleplanes-1.20.1-5.3.3.jar)
+[16Jul2025 06:32:36.821] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[16Jul2025 06:32:36.821] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[16Jul2025 06:32:36.822] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[16Jul2025 06:32:36.859] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe simpleplanes:plane_book as it's serializer returned null
+[16Jul2025 06:32:36.892] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[16Jul2025 06:32:37.024] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1924 advancements
+[16Jul2025 06:32:37.041] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[16Jul2025 06:32:37.044] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[16Jul2025 06:32:37.055] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[16Jul2025 06:32:38.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[16Jul2025 06:32:38.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[16Jul2025 06:32:38.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[16Jul2025 06:32:38.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[16Jul2025 06:32:38.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[16Jul2025 06:32:38.459] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[16Jul2025 06:32:38.559] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16Jul2025 06:32:38.560] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[16Jul2025 06:32:38.560] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16Jul2025 06:32:38.560] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[16Jul2025 06:32:38.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[16Jul2025 06:32:44.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[16Jul2025 06:32:49.580] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 06:32:49.581] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 06:32:49.582] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 06:32:49.583] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 06:32:49.585] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 06:32:49.586] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 06:32:49.586] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 06:32:49.587] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 06:32:49.587] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 06:32:49.588] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 06:32:49.588] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 06:32:49.854] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 06:32:50.353] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[16Jul2025 06:32:50.738] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6386 ms
+[16Jul2025 06:32:50.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.165s)! For help, type "help"
+[16Jul2025 06:32:50.775] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[16Jul2025 06:32:50.779] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[16Jul2025 06:32:50.779] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[16Jul2025 06:33:23.671] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hojaaaa[/127.4.194.172:41359] logged in with entity id 83 at (1914.5925323391593, 69.0, -144.67070921531635)
+[16Jul2025 06:33:23.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa joined the game
+[16Jul2025 06:33:25.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
