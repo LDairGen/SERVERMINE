@@ -116,3 +116,37 @@
 [16Jul2025 15:50:28.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> con algo de hierro
 [16Jul2025 15:50:35.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> y voy a recogerte en mi heli
 [16Jul2025 15:50:50.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> dale
+[16Jul2025 15:51:11.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=161, z=-13}
+[16Jul2025 15:51:11.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=161, z=-13}
+[16Jul2025 15:52:06.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=154, z=0}
+[16Jul2025 15:52:16.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LDairGen lost connection: Disconnected
+[16Jul2025 15:52:16.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen left the game
+[16Jul2025 15:52:31.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LDairGen[/127.71.239.79:55051] logged in with entity id 2589 at (-2.9987298507642763, 159.0, -3.6045811250867046)
+[16Jul2025 15:52:31.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen joined the game
+[16Jul2025 15:53:01.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> ue verga
+[16Jul2025 15:53:06.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> te deja poner bloques?
+[16Jul2025 15:53:15.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=159, z=-6}
+[16Jul2025 15:53:19.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=160, z=-1}
+[16Jul2025 15:53:20.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=160, z=0}
+[16Jul2025 15:53:21.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=161, z=1}
+[16Jul2025 15:53:29.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=158, z=2}
+[16Jul2025 15:53:30.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=158, z=3}
+[16Jul2025 15:53:30.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=158, z=2}
+[16Jul2025 15:53:32.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=157, z=2}
+[16Jul2025 15:53:43.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen was slain by Door Knight
+[16Jul2025 15:55:07.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ff
+[16Jul2025 15:55:23.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> on tas
+[16Jul2025 15:55:29.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen was shot by Skeleton
+[16Jul2025 15:55:34.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> 11815 7000
+[16Jul2025 15:55:41.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> esas son mis coords xd
+[16Jul2025 15:55:47.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> solo en el spawn no deja poner bloques xdddd
+[16Jul2025 15:55:55.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> pq
+[16Jul2025 15:55:55.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> xxddd
+[16Jul2025 15:58:08.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> comparteme donde estas
+[16Jul2025 15:58:19.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> un dragon xd
+[16Jul2025 15:58:27.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> estoy en una mina
+[16Jul2025 15:58:37.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> este verga
+[16Jul2025 15:58:44.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> aguanta chch
+[16Jul2025 15:58:47.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pinggfi> ya salgo
+[16Jul2025 16:00:38.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LDairGen was slain by Komodo Dragon
+[16Jul2025 16:01:13.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LDairGen> comprate nomas la ubicacin

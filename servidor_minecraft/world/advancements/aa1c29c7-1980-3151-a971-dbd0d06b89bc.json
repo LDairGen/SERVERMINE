@@ -356,6 +356,7 @@
       "apple": "2025-07-16 05:10:38 +0000",
       "bread": "2025-07-14 02:37:03 +0000",
       "rotten_flesh": "2025-07-15 02:11:14 +0000",
+      "melon_slice": "2025-07-16 15:47:54 +0000",
       "carrot": "2025-07-16 04:48:03 +0000"
     },
     "done": false
@@ -3020,6 +3021,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-07-16 06:19:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-07-16 15:53:55 +0000"
     },
     "done": true
   },
