@@ -75,3 +75,5 @@
 [16Jul2025 06:33:23.671] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hojaaaa[/127.4.194.172:41359] logged in with entity id 83 at (1914.5925323391593, 69.0, -144.67070921531635)
 [16Jul2025 06:33:23.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa joined the game
 [16Jul2025 06:33:25.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
+[16Jul2025 06:42:34.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hojaaaa lost connection: Disconnected
+[16Jul2025 06:42:34.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hojaaaa left the game
