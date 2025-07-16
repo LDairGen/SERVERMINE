@@ -2993,15 +2993,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
-      "has_chicken": "2025-07-16 06:19:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-07-16 06:19:45 +0000"
+      "has_item": "2025-07-16 06:17:06 +0000"
     },
     "done": true
   },
@@ -3011,9 +3005,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/ash": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "has_item": "2025-07-16 06:17:06 +0000"
+      "has_chicken": "2025-07-16 06:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-16 06:19:45 +0000"
     },
     "done": true
   },
