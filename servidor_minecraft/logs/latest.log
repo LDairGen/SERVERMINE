@@ -59,3 +59,6 @@
 [21:51:35] [Server thread/INFO]: Done (36.742s)! For help, type "help"
 [21:51:35] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
 [21:51:35] [Server thread/INFO]: Timings Reset
+[22:07:54] [User Authenticator #0/INFO]: UUID of player hojaaaa is a59795fe-6461-3784-8142-f87fb27dab86
+[22:08:04] [Server thread/INFO]: hojaaaa joined the game
+[22:08:05] [Server thread/INFO]: hojaaaa[/127.4.194.172:60365] logged in with entity id 59 at ([world]-9.5, 63.0, 4.5)
